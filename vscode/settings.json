@@ -1,0 +1,19 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "editor.fontSize": 14,
+    "editor.tabSize": 4,
+    "editor.minimap.enabled": false,
+    "editor.renderControlCharacters": false,
+    "editor.rulers": [80, 120], 
+    "editor.renderIndentGuides": true,
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "gitlens.codeLens.authors.enabled": false,
+    "gitlens.views.fileHistory.enabled": true,
+    "files.autoGuessEncoding": true,
+    "workbench.editor.showTabs": true,
+    "workbench.statusBar.visible": true,
+    "explorer.openEditors.visible": 0,
+    "window.zoomLevel": 0
+}
